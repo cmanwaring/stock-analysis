@@ -7,7 +7,7 @@ Then I refactored the code to make it more efficient.
 
 ## Results
 ### Stock Analysis:
-In 2017 11/12 of the stocks analyzed profited through the year, while in 2018 only 2/12 were profitable. While most of the stocks seemed to not fare as well in 2018, ENPH and RUN were profitable both years; with ENPH having a total increase of over 211.4%. This shows resilience in the stock, and would indicate that either may be a good choice, although ENPH did show significantly higher gains over the two years.  
+In 2017 11/12, of the stocks analyzed profited through the year, while in 2018 only 2/12 were profitable. While most of the stocks seemed to not fare as well in 2018, ENPH and RUN were profitable both years; with ENPH having a total increase of over 211.4%. This shows resilience in the stock, and would indicate that either may be a good choice, although ENPH did show significantly higher gains over the two years.  
   
 **2017 Results**  
 ![2017 Results](resources/VBA_Challenge_2017.png)  
