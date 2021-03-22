@@ -10,10 +10,10 @@ Then I refactored the code to make it more efficient.
 In 2017 11/12, of the stocks analyzed profited through the year, while in 2018 only 2/12 were profitable. While most of the stocks seemed to not fare as well in 2018, ENPH and RUN were profitable both years; with ENPH having a total increase of over 211.4%. This shows resilience in the stock, and would indicate that either may be a good choice, although ENPH did show significantly higher gains over the two years.  
   
 **2017 Results**  
-![2017 Results](resources/VBA_Challenge_2017.png)  
+![2017 Results](resources/stocks_chart_2017.png)  
   
 **2018 Results**  
-![2018 Results](resources/VBA_Challenge_2018.png)  
+![2018 Results](resources/stocks_chart_2018.png)  
   
 ### Refactoring Analysis:
 By creating a variable to represent the ticker index `ticketIndex = 0`, I can incriment the index `tickerIndex = tickerIndex + 1` to move to the next ticker; rather than looping through the entire list again for the each ticker. This significantly reduced processing time required to analyze the data.  
