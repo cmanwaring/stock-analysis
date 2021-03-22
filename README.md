@@ -1,9 +1,7 @@
 # 2017-2018 Stock Analysis
 
 ### The Purpose:
-We were given two years of stock information and the goal of determining how much total volume was traded daily, and the annual return.
-
-Then I refactored the code to make it more efficient.
+We were given two years of stock information and the goal of determining how much total volume was traded daily, and the annual return. I then refactored the code used to analyze the stocks to see if I can make it more efficient. Running a timer will tell me how long it takes for my code to execute, and the goal is to reduce that time. I will then weigh the pros and cons of the original code vs the refactored code.
 
 ## Results
 ### Stock Analysis:
